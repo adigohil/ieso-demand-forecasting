@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+pyarrow
+requests
+python-dateutil
